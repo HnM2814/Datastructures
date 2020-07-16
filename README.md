@@ -1,2 +1,2 @@
-# Datastructurs
+# Datastructures
 Various Data Structure Implementation
