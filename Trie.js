@@ -79,14 +79,9 @@ class Trie{
 
 let trie = new Trie();
 
-trie.addWord("Hiren");
-trie.addWord("Hiten");
-trie.addWord("Malay");
-trie.addWord("Karan");
+trie.addWord("apple");
+trie.addWord("ate");
+trie.addWord("ball");
+trie.addWord("best");
 
 trie.printAllWords(trie.root, [], 0);
-
-// trie.search("Hiren");
-// trie.search("Hiten");
-
-//console.log(trie.root);
